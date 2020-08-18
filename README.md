@@ -1,6 +1,8 @@
-# game
+# Reflex Check
 
-A new Flutter project.
+A game built in flutter using the flame library.<br>
+High-scores saved locally.<br>
+60fps supported, wont be needed for such a simple game though.
 
 ## Getting Started
 
